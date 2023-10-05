@@ -1,3 +1,9 @@
+# Welcome to Kamps Store
+
+This is an e-commerce application created to practice the Angular fundamentals and also to solidify node.js knowledge by using Stripe Payments and setting up a server.
+
+It is important to notice that, when developing this project, I was not really focused on the visual aspect of the website but actually to test and identify how Angular really works from the inside-out, by testing its methods and classes.
+
 # Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
